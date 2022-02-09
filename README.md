@@ -1,4 +1,4 @@
-PROYECTO FINAL.
+PROYECTO FINAL MÉTODOS NUMÉRICOS.
 
 Este proyecto trata sobre la regresión lineal simple usada para el aprendizaje de máquina 
 y es presentado como trabajo final del curso de métodos numéricos 2021-2 por el estudiante David Castañeda 
